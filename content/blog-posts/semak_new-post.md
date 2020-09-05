@@ -7,3 +7,6 @@ title = "SEMAK_NEW POST"
 type = "blog"
 
 +++
+This is the new post by me
+
+The whole site is created by, github, netlify and forestry with hugo temple.
