@@ -1,0 +1,21 @@
+
+5 Benefits of using a humidifier during sleep
+Humidifiers may be beneficial for adults and children during sleep. Sleep itself aids in repair, rejuvenation and maintenance of our immune system. Adding a humidifier to your bedroom can bolster the effects sleeping naturally provides. Here are some of the benefits you can get from sleeping with a humidifier in your room.
+
+
+![Humidifier](C:/ECONOMETRICS-R/Wepsites/Humid.png)
+
+Air that is not too dry may help you avoid colds and flu: Viral colds and flu can feel awful and can severely affect your sleep. In the winter months, they might seem to pass from person to person with no signs of slowing down. Thankfully, air at acceptable levels of humidity that is not too dry may lessen the infectivity of airborne viruses. Research has found that a humidity level of 40% or higher decreased infectivity levels of influenza virus to about 14%. At less than 23% humidity, almost 75% of the virus retained infectivity (Noti et al., 2013). Higher humidity allows viruses a better chance of attaching to water vapor droplets and falling out of the air, instead of viruses clinging to us and infecting us directly. This helps to explain why the dry climate of winter can leave us more susceptible to illness. Moreover, studies have shown that sleep deprivation is linked to our body’s immune systems–particularly in suppressing immune activity i.e increasing inflammation and reducing antibody response to Hepatitis A and influenza immunizations (Cohen et al., 2009).
+Higher humidity may help loosen congestion: Dry air may cause mucus to become dry and thick, which can result in clogged nasal passages. In turn, this may lead to a stuffy nose, sore throat, and sinus pain. Humidifiers may help by adding moisture to the area, which might help break up phlegm in your nose and chest.
+Cold and flu symptoms may be alleviated: If you do get the flu or a cold, using a humidifier while you sleep may help you recover faster. In addition to loosening congestion, it may help lubricate your nasal passages, allowing you to breathe a lot easier. This may also help alleviate a sore throat and, for some people, sinus headaches, and restore a restful sleep. Moreover, cold and fever symptoms could be worse at night as lying down puts you in a compromised position. Cold, dry air, in addition to a prone sleeping posture can affect how mucus builds up in the nasal cavity and the lack of adequate draining while lying down can create that mucus build up and exacerbate cold and flu symptoms. A humidifier may help alleviate this by adding more moisture to the air.
+Moist air may help prevent dry skin: Dry air may cause dry skin. When your skin is dry, it may crack and wrinkle more easily. This can be incredibly uncomfortable. Unfortunately, when you have dry air in your home, using lotion and chapstick may not be enough to rehydrate skin. One way to help is to have acceptable levels of moisture in the air, so your skin can absorb it. Skin-related conditions that cause itchy skin such as eczema can disturb sleep. The National Eczema Association states that a damaged skin barrier coupled with uneven humidity levels can exacerbate these symptoms. A humidifier, along with creams, may help sufferers retain skin moisture, reduce scratching, and promote uninterrupted sleep.
+It can help keep your hair and scalp healthy: Just like the skin on the rest of your body, your scalp may become dry and irritated when there is a lack of moisture in the air. This may cause your scalp to itch and worsen dandruff. Your hair may be affected, too. Since it is made up of collagen, your hair needs a certain amount of moisture. When exposed to dry air for too long, your hair might become dry and brittle. Acceptable levels of humidity may help with this.
+
+
+
+```{r}
+
+```
+
+
+Delete this sentence and enter your text here.
